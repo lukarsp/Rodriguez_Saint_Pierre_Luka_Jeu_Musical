@@ -2,23 +2,23 @@
     "name": "InputSystem",
     "maps": [
         {
-            "name": "PlayerGround",
-            "id": "90bb1c49-89cb-4691-a56c-55b12709d45b",
+            "name": "PlayerOnGround",
+            "id": "75acbe24-d3fc-411c-9a50-fde8c3ab9264",
             "actions": [
                 {
                     "name": "Move",
-                    "type": "Button",
-                    "id": "8be6c225-c7c6-4604-9a57-21da29da041b",
-                    "expectedControlType": "Button",
+                    "type": "Value",
+                    "id": "420cac67-66db-4094-bfa5-c15391d86c49",
+                    "expectedControlType": "Stick",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": false
+                    "initialStateCheck": true
                 }
             ],
             "bindings": [
                 {
                     "name": "",
-                    "id": "34f2796a-f98e-47d4-a4f3-197ca439c94a",
+                    "id": "48e123af-be6a-46c3-9939-bbff4e4f54e4",
                     "path": "",
                     "interactions": "",
                     "processors": "",
